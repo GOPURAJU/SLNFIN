@@ -1,0 +1,7 @@
+/**
+ * demojava
+ */
+public class demojava {
+
+    
+}
